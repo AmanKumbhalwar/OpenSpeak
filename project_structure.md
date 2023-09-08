@@ -26,7 +26,7 @@ This document provides an overview of the directory and file structure of our Ne
 
 ### `api/`
 
-- **Purpose (Optional):** If applicable, this directory can contain backend API route handlers.
+- **Purpose:** If applicable, this directory can contain backend API route handlers.
 - **Details:** Backend API logic can be organized here. For example, `api/user.js` handles user-related API requests.
 
 ### `utils/`
@@ -36,7 +36,7 @@ This document provides an overview of the directory and file structure of our Ne
 
 ### `tests/`
 
-- **Purpose (Optional):** Stores test files and suites for automated testing.
+- **Purpose :** Stores test files and suites for automated testing.
 - **Details:** If you implement automated tests, organize them here. Examples include unit tests in `tests/unit/` and integration tests in `tests/integration/`.
 
 ## File Structure
@@ -61,15 +61,15 @@ This document provides an overview of the directory and file structure of our Ne
 
 - **Purpose:** Specifies the license under which the project is distributed (e.g., MIT License, Apache License).
 
-### `.env` (Optional)
+### `.env` 
 
 - **Purpose:** Stores sensitive or environment-specific configuration variables. (Ensure it's added to `.gitignore` for security.)
 
-### `.env.example` (Optional)
+### `.env.example` 
 
 - **Purpose:** Provides a template for setting up environment variables in the `.env` file.
 
-### `.github/` (Optional)
+### `.github/` 
 
-- **Purpose (Optional):** If you use GitHub Actions for CI/CD, store workflow configuration files here.
+- **Purpose:** If you use GitHub Actions for CI/CD, store workflow configuration files here.
 
