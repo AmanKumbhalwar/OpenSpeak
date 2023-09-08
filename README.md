@@ -40,7 +40,7 @@ OpenSpeak is an open-source web application built with Next.js, designed to help
 ## Technologies Used
 
 - **Frontend:** Next.js, React
-- **Backend (Optional):** Node.js, Express
+- **Backend :** Node.js, Express
 - **Real-time Communication:** WebSocket
 - **Open APIs:** Language translation, dictionary, conversational AI, and more
 - **Text-to-speech (TTS):** Web Speech API or third-party TTS services
